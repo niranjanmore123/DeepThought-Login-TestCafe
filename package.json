@@ -1,0 +1,15 @@
+{
+  "name": "mytestcafe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testStructure.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^3.3.0",
+    "typescript": "^5.2.2"
+  }
+}
